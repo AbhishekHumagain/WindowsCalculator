@@ -55,7 +55,7 @@
             // 
             this.number7.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.number7.Location = new System.Drawing.Point(29, 90);
-            this.number7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.number7.Margin = new System.Windows.Forms.Padding(4);
             this.number7.Name = "number7";
             this.number7.Size = new System.Drawing.Size(60, 55);
             this.number7.TabIndex = 0;
@@ -67,7 +67,7 @@
             // 
             this.number8.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.number8.Location = new System.Drawing.Point(97, 90);
-            this.number8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.number8.Margin = new System.Windows.Forms.Padding(4);
             this.number8.Name = "number8";
             this.number8.Size = new System.Drawing.Size(60, 55);
             this.number8.TabIndex = 1;
@@ -79,7 +79,7 @@
             // 
             this.number9.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.number9.Location = new System.Drawing.Point(165, 90);
-            this.number9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.number9.Margin = new System.Windows.Forms.Padding(4);
             this.number9.Name = "number9";
             this.number9.Size = new System.Drawing.Size(60, 55);
             this.number9.TabIndex = 2;
@@ -91,7 +91,7 @@
             // 
             this.divide.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.divide.Location = new System.Drawing.Point(233, 90);
-            this.divide.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.divide.Margin = new System.Windows.Forms.Padding(4);
             this.divide.Name = "divide";
             this.divide.Size = new System.Drawing.Size(60, 55);
             this.divide.TabIndex = 3;
@@ -103,7 +103,7 @@
             // 
             this.buttonCE.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonCE.Location = new System.Drawing.Point(301, 90);
-            this.buttonCE.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.buttonCE.Margin = new System.Windows.Forms.Padding(4);
             this.buttonCE.Name = "buttonCE";
             this.buttonCE.Size = new System.Drawing.Size(71, 55);
             this.buttonCE.TabIndex = 4;
@@ -115,7 +115,7 @@
             // 
             this.buttonC.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonC.Location = new System.Drawing.Point(301, 153);
-            this.buttonC.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.buttonC.Margin = new System.Windows.Forms.Padding(4);
             this.buttonC.Name = "buttonC";
             this.buttonC.Size = new System.Drawing.Size(71, 55);
             this.buttonC.TabIndex = 9;
@@ -127,7 +127,7 @@
             // 
             this.multiply.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.multiply.Location = new System.Drawing.Point(233, 153);
-            this.multiply.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.multiply.Margin = new System.Windows.Forms.Padding(4);
             this.multiply.Name = "multiply";
             this.multiply.Size = new System.Drawing.Size(60, 55);
             this.multiply.TabIndex = 8;
@@ -139,7 +139,7 @@
             // 
             this.number6.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.number6.Location = new System.Drawing.Point(165, 153);
-            this.number6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.number6.Margin = new System.Windows.Forms.Padding(4);
             this.number6.Name = "number6";
             this.number6.Size = new System.Drawing.Size(60, 55);
             this.number6.TabIndex = 7;
@@ -151,7 +151,7 @@
             // 
             this.number5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.number5.Location = new System.Drawing.Point(97, 153);
-            this.number5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.number5.Margin = new System.Windows.Forms.Padding(4);
             this.number5.Name = "number5";
             this.number5.Size = new System.Drawing.Size(60, 55);
             this.number5.TabIndex = 6;
@@ -163,7 +163,7 @@
             // 
             this.number4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.number4.Location = new System.Drawing.Point(29, 153);
-            this.number4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.number4.Margin = new System.Windows.Forms.Padding(4);
             this.number4.Name = "number4";
             this.number4.Size = new System.Drawing.Size(60, 55);
             this.number4.TabIndex = 5;
@@ -175,7 +175,7 @@
             // 
             this.subtract.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.subtract.Location = new System.Drawing.Point(233, 215);
-            this.subtract.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.subtract.Margin = new System.Windows.Forms.Padding(4);
             this.subtract.Name = "subtract";
             this.subtract.Size = new System.Drawing.Size(60, 55);
             this.subtract.TabIndex = 13;
@@ -187,7 +187,7 @@
             // 
             this.number3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.number3.Location = new System.Drawing.Point(165, 215);
-            this.number3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.number3.Margin = new System.Windows.Forms.Padding(4);
             this.number3.Name = "number3";
             this.number3.Size = new System.Drawing.Size(60, 55);
             this.number3.TabIndex = 12;
@@ -199,7 +199,7 @@
             // 
             this.number2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.number2.Location = new System.Drawing.Point(97, 215);
-            this.number2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.number2.Margin = new System.Windows.Forms.Padding(4);
             this.number2.Name = "number2";
             this.number2.Size = new System.Drawing.Size(60, 55);
             this.number2.TabIndex = 11;
@@ -211,7 +211,7 @@
             // 
             this.number1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.number1.Location = new System.Drawing.Point(29, 215);
-            this.number1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.number1.Margin = new System.Windows.Forms.Padding(4);
             this.number1.Name = "number1";
             this.number1.Size = new System.Drawing.Size(60, 55);
             this.number1.TabIndex = 10;
@@ -223,7 +223,7 @@
             // 
             this.equals.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.equals.Location = new System.Drawing.Point(301, 215);
-            this.equals.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.equals.Margin = new System.Windows.Forms.Padding(4);
             this.equals.Name = "equals";
             this.equals.Size = new System.Drawing.Size(71, 118);
             this.equals.TabIndex = 19;
@@ -235,7 +235,7 @@
             // 
             this.add.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.add.Location = new System.Drawing.Point(233, 278);
-            this.add.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.add.Margin = new System.Windows.Forms.Padding(4);
             this.add.Name = "add";
             this.add.Size = new System.Drawing.Size(60, 55);
             this.add.TabIndex = 18;
@@ -247,7 +247,7 @@
             // 
             this.button17.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button17.Location = new System.Drawing.Point(165, 278);
-            this.button17.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button17.Margin = new System.Windows.Forms.Padding(4);
             this.button17.Name = "button17";
             this.button17.Size = new System.Drawing.Size(60, 55);
             this.button17.TabIndex = 17;
@@ -259,7 +259,7 @@
             // 
             this.number0.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.number0.Location = new System.Drawing.Point(29, 278);
-            this.number0.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.number0.Margin = new System.Windows.Forms.Padding(4);
             this.number0.Name = "number0";
             this.number0.Size = new System.Drawing.Size(128, 55);
             this.number0.TabIndex = 15;
@@ -271,7 +271,7 @@
             // 
             this.calculation_result.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.calculation_result.Location = new System.Drawing.Point(29, 49);
-            this.calculation_result.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.calculation_result.Margin = new System.Windows.Forms.Padding(4);
             this.calculation_result.Name = "calculation_result";
             this.calculation_result.Size = new System.Drawing.Size(341, 34);
             this.calculation_result.TabIndex = 20;
@@ -294,6 +294,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(407, 358);
             this.Controls.Add(this.labelCurrentOperation);
             this.Controls.Add(this.calculation_result);
@@ -317,7 +318,7 @@
             this.Controls.Add(this.number7);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
