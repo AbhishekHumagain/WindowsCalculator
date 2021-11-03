@@ -14,6 +14,8 @@ namespace Calculator
         Double resultValue = 0;
         String operationPerformed = "";
         bool isOperationPerformed = false;
+        bool isResutGenerated = false;
+
         public Form1()
         {
             InitializeComponent();
@@ -55,6 +57,7 @@ namespace Calculator
                 resultValue = Double.Parse(calculation_result.Text);
                 labelCurrentOperation.Text = resultValue + " " + operationPerformed;
                 isOperationPerformed = true;
+                isResutGenerated = true;
             }
         }
 
@@ -90,6 +93,12 @@ namespace Calculator
             }
             resultValue = Double.Parse(calculation_result.Text);
             labelCurrentOperation.Text = "";
+
+            if (isResutGenerated)
+            {
+                isOperationPerformed = true;
+                resultValue = 0;
+            }
         }
     }
 }
